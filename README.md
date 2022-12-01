@@ -2,7 +2,7 @@
 - 👀 I’m interested in 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+- 📫 How to reach me <img src="{https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white}"/> 
 
 <!---
 RodrigoM09/RodrigoM09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
