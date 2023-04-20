@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RodrigoM09
 - I am proficient in Html, CSS, BootStrap, PHP, Javascript, Jquery, Java, MySQL, MongoDB & Spring FrameWork.
-- I am currently focusing on impoving my skills with the languages I currently know.
+- I am currently working on a project using Svelte, FlowBite, TypeScript, and Tailwind CSS.
 - 📫 How to reach me:
 <a href="mailto:rodrigo.nmn.marquez@gmail.com">![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="www.linkedin.com/in/rodrigo-marquez-12b797159">![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
