@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @RodrigoM09
-- I am proficient in Html, CSS, BootStrap, PHP, Javascript, Jquery, Java, MySQL, MongoDB & Spring FrameWork.
-- I am currently working on a project using Svelte, FlowBite, TypeScript, and Tailwind CSS.
+👋 Hi there! I'm Rodrigo, a Software Engineer with a diverse background ranging from developing responsive web applications using the SvelteKit framework to leading teams in the U.S. Army. Over the years, I've managed logistics for large battalions, ensured the safety of personnel and equipment in high-stakes missions, and built a successful personal training business from the ground up. My unique blend of technical proficiency, leadership skills, and a keen attention to detail allows me to approach challenges with a holistic perspective. When I'm not deep in code, I'm passionate about fitness, continuous learning, and helping others achieve their goals. I believe in building not just great software, but also lasting relationships and strong teams.
 - 📫 How to reach me:
 <a href="mailto:rodrigo.nmn.marquez@gmail.com">![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="www.linkedin.com/in/rodrigo-marquez-12b797159">![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
